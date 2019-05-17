@@ -1,8 +1,8 @@
 package com.quoders.app.lastfmclient.data.remote
 
 import com.jakewharton.retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory
-import com.quoders.app.lastfmclient.data.remote.response.ArtistInfoResponse
-import com.quoders.app.lastfmclient.data.remote.response.ArtistSearchResponse
+import com.quoders.app.lastfmclient.data.remote.model.ArtistInfoResponse
+import com.quoders.app.lastfmclient.data.remote.model.ArtistSearchResponse
 import io.reactivex.Single
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor

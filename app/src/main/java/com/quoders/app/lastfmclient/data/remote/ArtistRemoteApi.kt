@@ -1,7 +1,7 @@
 package com.quoders.app.lastfmclient.data.remote
 
-import com.quoders.app.lastfmclient.data.remote.response.ArtistInfoResponse
-import com.quoders.app.lastfmclient.data.remote.response.ArtistSearchResponse
+import com.quoders.app.lastfmclient.data.remote.model.ArtistInfoResponse
+import com.quoders.app.lastfmclient.data.remote.model.ArtistSearchResponse
 import io.reactivex.Single
 import retrofit2.http.GET
 import retrofit2.http.Query

@@ -1,4 +1,4 @@
-package com.quoders.app.lastfmclient.data.remote.response
+package com.quoders.app.lastfmclient.data.remote.model
 
 import com.google.gson.annotations.SerializedName
 
